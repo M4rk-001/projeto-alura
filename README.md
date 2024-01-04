@@ -3,7 +3,7 @@
  <h2>Sobre</h2>
  <p> esse projeto utilizado foi disponibilizado pela alura para que assim possa haver a aprendizagem das ferramentas git hub <\p>
 
- ##Tecnologias 
+ # Tecnologias 
  -HTML
  -CSS
  -JavaScript
